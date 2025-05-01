@@ -9,16 +9,6 @@ If you're looking for a team player who dives deep into projects and tackles pro
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-C · C++ · C# · Java · Python · JavaScript · TypeScript · HTML · CSS · React · Node.js · Web API
-
-**Databases**  
-Microsoft SQL Server · PostgreSQL · MongoDB
-
----
-
 ## 🚀 Tools & Platforms
 
 ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=white)
@@ -39,4 +29,3 @@ Microsoft SQL Server · PostgreSQL · MongoDB
 ## 📫 Contact
 
 - **Email:** shoshana3631@gmail.com  
-- **Phone:** +972-54-8566-523  
