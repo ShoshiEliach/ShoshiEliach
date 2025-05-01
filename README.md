@@ -35,3 +35,8 @@ Microsoft SQL Server · PostgreSQL · MongoDB
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+## 📫 Contact
+
+- **Email:** shoshana3631@gmail.com  
+- **Phone:** +972-54-8566-523  
